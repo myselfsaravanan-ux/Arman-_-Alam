@@ -132,8 +132,7 @@ img {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: url('images/classroom-2.jpg') center/cover no-repeat;
-}
+    background: url('IMG-20260804-WA0030.jpg') center/cover no-repeat;
 
 .hero-overlay {
     position: absolute;
